@@ -1,4 +1,4 @@
-# SBRSS
+# SARSS
 usage:rosbag play *.bag
 
 dataset from the paper
