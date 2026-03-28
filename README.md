@@ -12,9 +12,9 @@ usage:rosbag play *.bag
 
 You can download the dataset through this link:
 
-https://drive.google.com/file/d/1Lqa8ps60vtoeQVkWzra4zO8zneo8C3EG/view?usp=drive_link
+https://drive.google.com/file/d/1Bm_d6N9bqcMlkTfR-9MvIww6r1zF4TYL/view?usp=sharing
 
 1.roslaunch fast_lio mapping_velodyne.launch
-2.rosbag play 
+2.rosbag play *.bag
 or other dataset
 2.rosbag play hku_campus_seq_00.bag -s 115 -u 40
